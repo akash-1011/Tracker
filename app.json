@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "tracker",
+    "name": "Tracker",
     "slug": "tracker",
     "platforms": [
       "ios",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": ""
   }
 }
